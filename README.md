@@ -7,4 +7,4 @@ Aplikasi LAB adalah platform digital untuk mengelola laboratorium klinis rumah s
 2. Muhammad Aji Yoga Pratama (23050974130)
 3. Iklil Jumala (23050974133)
 
-Project Aplikasi LAB ini kami buat untuk memenuhi tugas akhir semester mata kuliah Pemograman Mobile Prodi S1 Pendidikan Teknologi Informasi [Pendidikan Teknologi Informasi](https://pendidikan-ti.ft.unesa.ac.id/) dari Fakultas Teknik [Fakultas Teknik](https://ft.unesa.ac.id/) dan Universitas Negeri Surabaya [Universitas Negeri Surabaya](https://unesa.ac.id/)
+Project Aplikasi LAB ini kami buat untuk memenuhi tugas akhir semester mata kuliah Pemograman Mobile Prodi S1 Pendidikan Teknologi Informasi [Pendidikan Teknologi Informasi](https://pendidikan-ti.ft.unesa.ac.id/) Universitas Negeri Surabaya [Universitas Negeri Surabaya](https://unesa.ac.id/)dari Fakultas Teknik [Fakultas Teknik](https://ft.unesa.ac.id/)(https://unesa.ac.id/)
