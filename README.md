@@ -1,16 +1,7 @@
 ## Selamat datang di APLIKASI LAB!
 
-Aplikasi Pencari Tempat Tidur ICU adalah aplikasi android yang dikembangkan menggunakan Platform Android Studio. Aplikasi ini sederhana dengan fitur-fitur berikut:-
-1. Aplikasi mengumpulkan informasi tempat tidur rumah sakit yang tersedia termasuk tempat tidur ICU, tempat tidur umum dari berbagai rumah sakit.
-2. Memungkinkan pengguna untuk memesan tempat tidur pilihan mereka.
-3. Mereka dapat mengumpulkan kartu pembayaran untuk transaksi mereka.
-4. Aplikasi memperbarui informasinya secara real-time.
-5. Pengguna juga akan menemukan informasi rinci rumah sakit seperti lokasi, rincian kontak, dll.
-6. Admin rumah sakit dapat mengelola info rumah sakitnya masing-masing yang akan diperbarui ke semua basis data pengguna.
-7. Desain UI yang menarik
-8. Pengguna juga dapat meninggalkan komentar dan ulasan
-9. Mudah digunakan
-   
+Aplikasi LAB adalah platform digital untuk mengelola laboratorium klinis rumah sakit secara efisien. Aplikasi ini mengotomatisasi pendaftaran pasien, pemrosesan hasil tes, dan distribusi laporan real-time, terintegrasi dengan sistem rumah sakit untuk layanan yang cepat, akurat, dan transparan. Dengan fitur seperti manajemen data, pelacakan hasil, dan notifikasi, aplikasi ini mengurangi antrean, meminimalkan kesalahan, serta mempercepat komunikasi, meningkatkan pengalaman pengguna dan layanan berbasis teknologi.
+
 <p align="center">
 <img width="190" src="icubedfinder_design/image1.jpeg" />
 <img width="190" src="icubedfinder_design/image2.jpeg" />
