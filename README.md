@@ -1,4 +1,4 @@
-## Selamat datang di APLIKASILAB!
+## Selamat datang di APLIKASI LAB!
 
 Aplikasi Pencari Tempat Tidur ICU adalah aplikasi android yang dikembangkan menggunakan Platform Android Studio. Aplikasi ini sederhana dengan fitur-fitur berikut:-
 1. Aplikasi mengumpulkan informasi tempat tidur rumah sakit yang tersedia termasuk tempat tidur ICU, tempat tidur umum dari berbagai rumah sakit.
